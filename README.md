@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Araujo93
-- 👀 I’m interested in learning javascript 
-- 🌱 I’m currently learning a lot..
+- 👀 I have a passion for learning new tecnhologies
+- 🌱 My favourite tools to work with right now are React and Typescript
 - 💞️ I’m looking to collaborate on many projects 
 - 📫 Get in contact me with on Github!
 
